@@ -121,7 +121,7 @@ body:before {
   -webkit-transform: scale(1);
   -ms-transform: scale(1);
   transform: scale(1);
-  background-image: linear-gradient(to top, rgba(27,33,51,0.749), rgba(27,33,51,0.749)), url('https://500px.com/photo/111227471/Set-of-Wrenches-by-Dejan-Krsmanovic?ctx_page=2&from=search&ctx_type=photos&ctx_q=mechanic');
+  background-image: linear-gradient(to top, rgba(27,33,51,0.749), rgba(27,33,51,0.749)), url('./hasalp.png');
   background-position: 0% 0%, center;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
